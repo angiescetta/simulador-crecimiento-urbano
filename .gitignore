@@ -1,0 +1,10 @@
+cache
+*.png
+*.bmp
+.ipynb_checkpoints/
+__pycache__/
+*.jpg
+notebooks/rasters
+data/cache
+.DS_Store
+*.log
